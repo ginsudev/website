@@ -87,7 +87,7 @@ export default function PackageDepictionPage() {
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
       <PageIntroduction title={packageInfo.name} leadingImage={packageInfo.icon} />
-      <SocialsList />
+      <SocialsList items={['x', 'discord', 'github']} />
 
       {/* Description Section */}
       <div style={sectionTitleStyles}>Description</div>
