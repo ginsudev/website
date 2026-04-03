@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ginsu.dev",
+  "homepage": "https://noahlittle.net",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build && npm run packages",
