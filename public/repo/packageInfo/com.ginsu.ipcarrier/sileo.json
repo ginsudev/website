@@ -1,7 +1,7 @@
 {
   "minVersion": "0.4",
   "class": "DepictionTabView",
-  "headerImage": "https://ginsu.dev/repo/packageInfo/com.ginsu.ipcarrier/banner.png",
+  "headerImage": "https://noahlittle.net/repo/packageInfo/com.ginsu.ipcarrier/banner.png",
   "tabs": [
     {
       "views": [
@@ -21,13 +21,13 @@
           "itemCornerRadius": 6,
           "screenshots": [
             {
-              "fullSizeURL": "https://ginsu.dev/repo/packageInfo/com.ginsu.ipcarrier/screenshots/s2.jpg",
-              "url": "https://ginsu.dev/repo/packageInfo/com.ginsu.ipcarrier/screenshots/s2.jpg",
+              "fullSizeURL": "https://noahlittle.net/repo/packageInfo/com.ginsu.ipcarrier/screenshots/s2.jpg",
+              "url": "https://noahlittle.net/repo/packageInfo/com.ginsu.ipcarrier/screenshots/s2.jpg",
               "accessibilityText": "Screenshot"
             },
             {
-              "fullSizeURL": "https://ginsu.dev/repo/packageInfo/com.ginsu.ipcarrier/screenshots/screenshot1.jpg",
-              "url": "https://ginsu.dev/repo/packageInfo/com.ginsu.ipcarrier/screenshots/screenshot1.jpg",
+              "fullSizeURL": "https://noahlittle.net/repo/packageInfo/com.ginsu.ipcarrier/screenshots/screenshot1.jpg",
+              "url": "https://noahlittle.net/repo/packageInfo/com.ginsu.ipcarrier/screenshots/screenshot1.jpg",
               "accessibilityText": "Screenshot"
             }
           ]
@@ -60,7 +60,7 @@
         },
         {
           "class": "DepictionTableButtonView",
-          "action": "https://ginsu.dev/#/depiction/com.ginsu.ipcarrier",
+          "action": "https://noahlittle.net/#/depiction/com.ginsu.ipcarrier",
           "title": "View web depiction"
         }
       ],
@@ -81,7 +81,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "12/07/2025",
+              "title": "7/12/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }

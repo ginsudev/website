@@ -1,7 +1,7 @@
 {
   "minVersion": "0.4",
   "class": "DepictionTabView",
-  "headerImage": "https://ginsu.dev/repo/packageInfo/com.ginsu.gscore/banner.png",
+  "headerImage": "https://noahlittle.net/repo/packageInfo/com.ginsu.gscore/banner.png",
   "tabs": [
     {
       "views": [
@@ -49,7 +49,7 @@
         },
         {
           "class": "DepictionTableButtonView",
-          "action": "https://ginsu.dev/#/depiction/com.ginsu.gscore",
+          "action": "https://noahlittle.net/#/depiction/com.ginsu.gscore",
           "title": "View web depiction"
         }
       ],
@@ -70,7 +70,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "12/07/2025",
+              "title": "7/12/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }
@@ -95,7 +95,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "12/07/2025",
+              "title": "7/12/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }
@@ -125,7 +125,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "12/07/2025",
+              "title": "7/12/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }
@@ -170,7 +170,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "12/07/2025",
+              "title": "7/12/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }
@@ -200,7 +200,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "12/07/2025",
+              "title": "7/12/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }
@@ -230,7 +230,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "12/07/2025",
+              "title": "7/12/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }
@@ -260,7 +260,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "12/07/2025",
+              "title": "7/12/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }

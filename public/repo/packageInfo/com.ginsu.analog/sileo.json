@@ -1,7 +1,7 @@
 {
   "minVersion": "0.4",
   "class": "DepictionTabView",
-  "headerImage": "https://ginsu.dev/repo/packageInfo/com.ginsu.analog/banner.png",
+  "headerImage": "https://noahlittle.net/repo/packageInfo/com.ginsu.analog/banner.png",
   "tabs": [
     {
       "views": [
@@ -21,28 +21,28 @@
           "itemCornerRadius": 6,
           "screenshots": [
             {
-              "fullSizeURL": "https://ginsu.dev/repo/packageInfo/com.ginsu.analog/screenshots/IMG_0129 2.PNG",
-              "url": "https://ginsu.dev/repo/packageInfo/com.ginsu.analog/screenshots/IMG_0129 2.PNG",
+              "fullSizeURL": "https://noahlittle.net/repo/packageInfo/com.ginsu.analog/screenshots/IMG_0129 2.PNG",
+              "url": "https://noahlittle.net/repo/packageInfo/com.ginsu.analog/screenshots/IMG_0129 2.PNG",
               "accessibilityText": "Screenshot"
             },
             {
-              "fullSizeURL": "https://ginsu.dev/repo/packageInfo/com.ginsu.analog/screenshots/IMG_3399.PNG",
-              "url": "https://ginsu.dev/repo/packageInfo/com.ginsu.analog/screenshots/IMG_3399.PNG",
+              "fullSizeURL": "https://noahlittle.net/repo/packageInfo/com.ginsu.analog/screenshots/IMG_3399.PNG",
+              "url": "https://noahlittle.net/repo/packageInfo/com.ginsu.analog/screenshots/IMG_3399.PNG",
               "accessibilityText": "Screenshot"
             },
             {
-              "fullSizeURL": "https://ginsu.dev/repo/packageInfo/com.ginsu.analog/screenshots/IMG_3401.PNG",
-              "url": "https://ginsu.dev/repo/packageInfo/com.ginsu.analog/screenshots/IMG_3401.PNG",
+              "fullSizeURL": "https://noahlittle.net/repo/packageInfo/com.ginsu.analog/screenshots/IMG_3401.PNG",
+              "url": "https://noahlittle.net/repo/packageInfo/com.ginsu.analog/screenshots/IMG_3401.PNG",
               "accessibilityText": "Screenshot"
             },
             {
-              "fullSizeURL": "https://ginsu.dev/repo/packageInfo/com.ginsu.analog/screenshots/IMG_3402.PNG",
-              "url": "https://ginsu.dev/repo/packageInfo/com.ginsu.analog/screenshots/IMG_3402.PNG",
+              "fullSizeURL": "https://noahlittle.net/repo/packageInfo/com.ginsu.analog/screenshots/IMG_3402.PNG",
+              "url": "https://noahlittle.net/repo/packageInfo/com.ginsu.analog/screenshots/IMG_3402.PNG",
               "accessibilityText": "Screenshot"
             },
             {
-              "fullSizeURL": "https://ginsu.dev/repo/packageInfo/com.ginsu.analog/screenshots/IMG_3406.PNG",
-              "url": "https://ginsu.dev/repo/packageInfo/com.ginsu.analog/screenshots/IMG_3406.PNG",
+              "fullSizeURL": "https://noahlittle.net/repo/packageInfo/com.ginsu.analog/screenshots/IMG_3406.PNG",
+              "url": "https://noahlittle.net/repo/packageInfo/com.ginsu.analog/screenshots/IMG_3406.PNG",
               "accessibilityText": "Screenshot"
             }
           ]
@@ -75,7 +75,7 @@
         },
         {
           "class": "DepictionTableButtonView",
-          "action": "https://ginsu.dev/#/depiction/com.ginsu.analog",
+          "action": "https://noahlittle.net/#/depiction/com.ginsu.analog",
           "title": "View web depiction"
         }
       ],
@@ -96,7 +96,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "12/07/2025",
+              "title": "7/12/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }
@@ -121,7 +121,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "12/07/2025",
+              "title": "7/12/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }
@@ -151,7 +151,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "12/07/2025",
+              "title": "7/12/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }
@@ -186,7 +186,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "12/07/2025",
+              "title": "7/12/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }

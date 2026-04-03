@@ -1,7 +1,7 @@
 {
   "minVersion": "0.4",
   "class": "DepictionTabView",
-  "headerImage": "https://ginsu.dev/repo/packageInfo/com.ginsu.dualclock2/banner.png",
+  "headerImage": "https://noahlittle.net/repo/packageInfo/com.ginsu.dualclock2/banner.png",
   "tabs": [
     {
       "views": [
@@ -21,23 +21,23 @@
           "itemCornerRadius": 6,
           "screenshots": [
             {
-              "fullSizeURL": "https://ginsu.dev/repo/packageInfo/com.ginsu.dualclock2/screenshots/IMG_0128.PNG",
-              "url": "https://ginsu.dev/repo/packageInfo/com.ginsu.dualclock2/screenshots/IMG_0128.PNG",
+              "fullSizeURL": "https://noahlittle.net/repo/packageInfo/com.ginsu.dualclock2/screenshots/IMG_0128.PNG",
+              "url": "https://noahlittle.net/repo/packageInfo/com.ginsu.dualclock2/screenshots/IMG_0128.PNG",
               "accessibilityText": "Screenshot"
             },
             {
-              "fullSizeURL": "https://ginsu.dev/repo/packageInfo/com.ginsu.dualclock2/screenshots/IMG_3339.PNG",
-              "url": "https://ginsu.dev/repo/packageInfo/com.ginsu.dualclock2/screenshots/IMG_3339.PNG",
+              "fullSizeURL": "https://noahlittle.net/repo/packageInfo/com.ginsu.dualclock2/screenshots/IMG_3339.PNG",
+              "url": "https://noahlittle.net/repo/packageInfo/com.ginsu.dualclock2/screenshots/IMG_3339.PNG",
               "accessibilityText": "Screenshot"
             },
             {
-              "fullSizeURL": "https://ginsu.dev/repo/packageInfo/com.ginsu.dualclock2/screenshots/IMG_3340.PNG",
-              "url": "https://ginsu.dev/repo/packageInfo/com.ginsu.dualclock2/screenshots/IMG_3340.PNG",
+              "fullSizeURL": "https://noahlittle.net/repo/packageInfo/com.ginsu.dualclock2/screenshots/IMG_3340.PNG",
+              "url": "https://noahlittle.net/repo/packageInfo/com.ginsu.dualclock2/screenshots/IMG_3340.PNG",
               "accessibilityText": "Screenshot"
             },
             {
-              "fullSizeURL": "https://ginsu.dev/repo/packageInfo/com.ginsu.dualclock2/screenshots/IMG_3341.PNG",
-              "url": "https://ginsu.dev/repo/packageInfo/com.ginsu.dualclock2/screenshots/IMG_3341.PNG",
+              "fullSizeURL": "https://noahlittle.net/repo/packageInfo/com.ginsu.dualclock2/screenshots/IMG_3341.PNG",
+              "url": "https://noahlittle.net/repo/packageInfo/com.ginsu.dualclock2/screenshots/IMG_3341.PNG",
               "accessibilityText": "Screenshot"
             }
           ]
@@ -70,7 +70,7 @@
         },
         {
           "class": "DepictionTableButtonView",
-          "action": "https://ginsu.dev/#/depiction/com.ginsu.dualclock2",
+          "action": "https://noahlittle.net/#/depiction/com.ginsu.dualclock2",
           "title": "View web depiction"
         }
       ],
@@ -91,7 +91,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "12/07/2025",
+              "title": "7/12/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }
@@ -116,7 +116,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "12/07/2025",
+              "title": "7/12/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }
@@ -166,7 +166,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "12/07/2025",
+              "title": "7/12/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }
@@ -206,7 +206,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "12/07/2025",
+              "title": "7/12/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }

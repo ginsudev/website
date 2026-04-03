@@ -1,7 +1,7 @@
 {
   "minVersion": "0.4",
   "class": "DepictionTabView",
-  "headerImage": "https://ginsu.dev/repo/packageInfo/com.ginsu.notchbanners/banner.png",
+  "headerImage": "https://noahlittle.net/repo/packageInfo/com.ginsu.notchbanners/banner.png",
   "tabs": [
     {
       "views": [
@@ -21,28 +21,28 @@
           "itemCornerRadius": 6,
           "screenshots": [
             {
-              "fullSizeURL": "https://ginsu.dev/repo/packageInfo/com.ginsu.notchbanners/screenshots/IMG_3528.PNG",
-              "url": "https://ginsu.dev/repo/packageInfo/com.ginsu.notchbanners/screenshots/IMG_3528.PNG",
+              "fullSizeURL": "https://noahlittle.net/repo/packageInfo/com.ginsu.notchbanners/screenshots/IMG_3528.PNG",
+              "url": "https://noahlittle.net/repo/packageInfo/com.ginsu.notchbanners/screenshots/IMG_3528.PNG",
               "accessibilityText": "Screenshot"
             },
             {
-              "fullSizeURL": "https://ginsu.dev/repo/packageInfo/com.ginsu.notchbanners/screenshots/IMG_3529.PNG",
-              "url": "https://ginsu.dev/repo/packageInfo/com.ginsu.notchbanners/screenshots/IMG_3529.PNG",
+              "fullSizeURL": "https://noahlittle.net/repo/packageInfo/com.ginsu.notchbanners/screenshots/IMG_3529.PNG",
+              "url": "https://noahlittle.net/repo/packageInfo/com.ginsu.notchbanners/screenshots/IMG_3529.PNG",
               "accessibilityText": "Screenshot"
             },
             {
-              "fullSizeURL": "https://ginsu.dev/repo/packageInfo/com.ginsu.notchbanners/screenshots/IMG_3530.PNG",
-              "url": "https://ginsu.dev/repo/packageInfo/com.ginsu.notchbanners/screenshots/IMG_3530.PNG",
+              "fullSizeURL": "https://noahlittle.net/repo/packageInfo/com.ginsu.notchbanners/screenshots/IMG_3530.PNG",
+              "url": "https://noahlittle.net/repo/packageInfo/com.ginsu.notchbanners/screenshots/IMG_3530.PNG",
               "accessibilityText": "Screenshot"
             },
             {
-              "fullSizeURL": "https://ginsu.dev/repo/packageInfo/com.ginsu.notchbanners/screenshots/IMG_3544.PNG",
-              "url": "https://ginsu.dev/repo/packageInfo/com.ginsu.notchbanners/screenshots/IMG_3544.PNG",
+              "fullSizeURL": "https://noahlittle.net/repo/packageInfo/com.ginsu.notchbanners/screenshots/IMG_3544.PNG",
+              "url": "https://noahlittle.net/repo/packageInfo/com.ginsu.notchbanners/screenshots/IMG_3544.PNG",
               "accessibilityText": "Screenshot"
             },
             {
-              "fullSizeURL": "https://ginsu.dev/repo/packageInfo/com.ginsu.notchbanners/screenshots/IMG_3546.PNG",
-              "url": "https://ginsu.dev/repo/packageInfo/com.ginsu.notchbanners/screenshots/IMG_3546.PNG",
+              "fullSizeURL": "https://noahlittle.net/repo/packageInfo/com.ginsu.notchbanners/screenshots/IMG_3546.PNG",
+              "url": "https://noahlittle.net/repo/packageInfo/com.ginsu.notchbanners/screenshots/IMG_3546.PNG",
               "accessibilityText": "Screenshot"
             }
           ]
@@ -75,7 +75,7 @@
         },
         {
           "class": "DepictionTableButtonView",
-          "action": "https://ginsu.dev/#/depiction/com.ginsu.notchbanners",
+          "action": "https://noahlittle.net/#/depiction/com.ginsu.notchbanners",
           "title": "View web depiction"
         }
       ],
@@ -96,7 +96,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "12/07/2025",
+              "title": "7/12/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }

@@ -1,7 +1,7 @@
 {
   "minVersion": "0.4",
   "class": "DepictionTabView",
-  "headerImage": "https://ginsu.dev/repo/packageInfo/com.ginsu.killcontrol/banner.png",
+  "headerImage": "https://noahlittle.net/repo/packageInfo/com.ginsu.killcontrol/banner.png",
   "tabs": [
     {
       "views": [
@@ -21,13 +21,13 @@
           "itemCornerRadius": 6,
           "screenshots": [
             {
-              "fullSizeURL": "https://ginsu.dev/repo/packageInfo/com.ginsu.killcontrol/screenshots/IMG_3574.PNG",
-              "url": "https://ginsu.dev/repo/packageInfo/com.ginsu.killcontrol/screenshots/IMG_3574.PNG",
+              "fullSizeURL": "https://noahlittle.net/repo/packageInfo/com.ginsu.killcontrol/screenshots/IMG_3574.PNG",
+              "url": "https://noahlittle.net/repo/packageInfo/com.ginsu.killcontrol/screenshots/IMG_3574.PNG",
               "accessibilityText": "Screenshot"
             },
             {
-              "fullSizeURL": "https://ginsu.dev/repo/packageInfo/com.ginsu.killcontrol/screenshots/IMG_3575.PNG",
-              "url": "https://ginsu.dev/repo/packageInfo/com.ginsu.killcontrol/screenshots/IMG_3575.PNG",
+              "fullSizeURL": "https://noahlittle.net/repo/packageInfo/com.ginsu.killcontrol/screenshots/IMG_3575.PNG",
+              "url": "https://noahlittle.net/repo/packageInfo/com.ginsu.killcontrol/screenshots/IMG_3575.PNG",
               "accessibilityText": "Screenshot"
             }
           ]
@@ -60,7 +60,7 @@
         },
         {
           "class": "DepictionTableButtonView",
-          "action": "https://ginsu.dev/#/depiction/com.ginsu.killcontrol",
+          "action": "https://noahlittle.net/#/depiction/com.ginsu.killcontrol",
           "title": "View web depiction"
         }
       ],
@@ -81,7 +81,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "12/07/2025",
+              "title": "7/12/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }
