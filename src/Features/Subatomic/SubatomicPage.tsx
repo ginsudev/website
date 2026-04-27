@@ -26,7 +26,7 @@ const description = `
 Subatomic is an iOS client for connecting to self-hosted media servers and listening to your library from anywhere.
 
 - Stream your music library remotely with chunked playback.
-- Download songs for offline listening.
+- Offline mode.
 - Manage playlists, queues, and multiple servers from one app.
 - Works with Subsonic, Navidrome, and Ampache servers.
 `
@@ -34,11 +34,7 @@ Subatomic is an iOS client for connecting to self-hosted media servers and liste
 export default function SubatomicPage() {
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
-      <PageIntroduction
-        title='Subatomic'
-        subtitle='iOS client for self-hosted music servers.'
-        leadingImage='/AppIconSubsonic.png'
-      />
+      <PageIntroduction title='Subatomic' subtitle='iOS client for self-hosted music servers.' leadingImage='/AppIconSubsonic.png' />
 
       <div style={sectionTitleStyle}>Description</div>
       <SectionContent>
@@ -47,9 +43,7 @@ export default function SubatomicPage() {
 
       <SectionContent>
         <div style={{ display: 'flex', flexDirection: 'column', gap: '12px', alignItems: 'flex-start' }}>
-          <div style={{ color: '#333' }}>
-            Need help with Subatomic? Reach out directly and I&apos;ll get back to you by email.
-          </div>
+          <div style={{ color: '#333' }}>Need help with Subatomic? Reach out directly and I&apos;ll get back to you by email.</div>
           <ClassicButton title='Contact support' onClick={() => (window.location.href = `mailto:${SUBATOMIC_SUPPORT_EMAIL}`)} />
         </div>
       </SectionContent>
