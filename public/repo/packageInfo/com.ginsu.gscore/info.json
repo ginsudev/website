@@ -58,6 +58,15 @@
         "Refactor Preferences propertyWrapper",
         ""
       ]
+    },
+    "2.0.0": {
+      "date": "2026-08-15T08:17:19.714Z",
+      "changes": [
+        "Remove Orion as a dependency.",
+        "Use libroot instead of compile time ROOTLESS flags.",
+        "Rewrite as a THEOS framework.",
+        ""
+      ]
     }
   }
 }

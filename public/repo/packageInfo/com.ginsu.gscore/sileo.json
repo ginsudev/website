@@ -34,7 +34,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1.1",
+          "text": "2.0.0",
           "title": "Version"
         },
         {
@@ -70,7 +70,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "7/12/2025",
+              "title": "12/07/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }
@@ -95,7 +95,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "7/12/2025",
+              "title": "12/07/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }
@@ -125,7 +125,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "7/12/2025",
+              "title": "12/07/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }
@@ -170,7 +170,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "7/12/2025",
+              "title": "12/07/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }
@@ -200,7 +200,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "7/12/2025",
+              "title": "12/07/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }
@@ -230,7 +230,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "7/12/2025",
+              "title": "12/07/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }
@@ -260,7 +260,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "title": "7/12/2025",
+              "title": "12/07/2025",
               "alignment": 2,
               "class": "DepictionSubheaderView"
             }
@@ -269,6 +269,46 @@
         {
           "useSpacing": true,
           "markdown": "Refactor Preferences propertyWrapper",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "useSpacing": true,
+          "markdown": "",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 12
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "alignment": 0,
+              "useBoldText": true,
+              "title": "2.0.0",
+              "class": "DepictionSubheaderView"
+            },
+            {
+              "title": "15/08/2026",
+              "alignment": 2,
+              "class": "DepictionSubheaderView"
+            }
+          ]
+        },
+        {
+          "useSpacing": true,
+          "markdown": "Remove Orion as a dependency.",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "useSpacing": true,
+          "markdown": "Use libroot instead of compile time ROOTLESS flags.",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "useSpacing": true,
+          "markdown": "Rewrite as a THEOS framework.",
           "class": "DepictionMarkdownView"
         },
         {
