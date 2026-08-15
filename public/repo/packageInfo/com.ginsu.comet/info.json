@@ -19,6 +19,14 @@
       "changes": [
         ""
       ]
+    },
+    "2.0.0": {
+      "date": "2026-08-15T11:29:34.395Z",
+      "changes": [
+        "Remove Orion as a dependency",
+        "Use libroot instead of ROOTLESS compile-time directives",
+        "Rewrite the framework to use THEOS instead of Xcode"
+      ]
     }
   }
 }
