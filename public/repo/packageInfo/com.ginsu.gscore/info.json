@@ -67,6 +67,12 @@
         "Rewrite as a THEOS framework.",
         ""
       ]
+    },
+    "2.0.1": {
+      "date": "2026-08-16T01:55:26.493Z",
+      "changes": [
+        "Bring back iOS 14 support"
+      ]
     }
   }
 }

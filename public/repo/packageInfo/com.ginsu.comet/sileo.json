@@ -34,7 +34,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2.0.0",
+          "text": "2.0.1",
           "title": "Version"
         },
         {
@@ -139,6 +139,31 @@
         {
           "useSpacing": true,
           "markdown": "Rewrite the framework to use THEOS instead of Xcode",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 12
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "alignment": 0,
+              "useBoldText": true,
+              "title": "2.0.1",
+              "class": "DepictionSubheaderView"
+            },
+            {
+              "title": "16/08/2026",
+              "alignment": 2,
+              "class": "DepictionSubheaderView"
+            }
+          ]
+        },
+        {
+          "useSpacing": true,
+          "markdown": "Bring back iOS 14 support",
           "class": "DepictionMarkdownView"
         },
         {

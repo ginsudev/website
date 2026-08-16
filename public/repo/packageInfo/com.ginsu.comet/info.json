@@ -27,6 +27,12 @@
         "Use libroot instead of ROOTLESS compile-time directives",
         "Rewrite the framework to use THEOS instead of Xcode"
       ]
+    },
+    "2.0.1": {
+      "date": "2026-08-16T01:56:25.992Z",
+      "changes": [
+        "Bring back iOS 14 support"
+      ]
     }
   }
 }
