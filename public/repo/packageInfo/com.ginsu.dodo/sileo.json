@@ -70,7 +70,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "4.2.2",
+          "text": "5.0.0",
           "title": "Version"
         },
         {
@@ -770,6 +770,36 @@
         {
           "useSpacing": true,
           "markdown": "",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 12
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "alignment": 0,
+              "useBoldText": true,
+              "title": "5.0.0",
+              "class": "DepictionSubheaderView"
+            },
+            {
+              "title": "21/08/2026",
+              "alignment": 2,
+              "class": "DepictionSubheaderView"
+            }
+          ]
+        },
+        {
+          "useSpacing": true,
+          "markdown": "Support modern jailbreaks",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "useSpacing": true,
+          "markdown": "Remove orion dependency",
           "class": "DepictionMarkdownView"
         },
         {

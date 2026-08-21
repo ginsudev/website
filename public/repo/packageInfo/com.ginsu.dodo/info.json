@@ -170,6 +170,13 @@
         "Use new GSWeather apis",
         ""
       ]
+    },
+    "5.0.0": {
+      "date": "2026-08-21T13:14:52.296Z",
+      "changes": [
+        "Support modern jailbreaks",
+        "Remove orion dependency"
+      ]
     }
   }
 }
