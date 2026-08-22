@@ -177,6 +177,14 @@
         "Support modern jailbreaks",
         "Remove orion dependency"
       ]
+    },
+    "5.0.1": {
+      "date": "2026-08-22T11:34:36.107Z",
+      "changes": [
+        "Fix not working on iOS 14/rootful jailbreaks",
+        "Fix system media player was not hidden",
+        "Fix notification list offset issues on iOS 16+"
+      ]
     }
   }
 }

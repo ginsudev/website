@@ -70,7 +70,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "5.0.0",
+          "text": "5.0.1",
           "title": "Version"
         },
         {
@@ -800,6 +800,41 @@
         {
           "useSpacing": true,
           "markdown": "Remove orion dependency",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 12
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "alignment": 0,
+              "useBoldText": true,
+              "title": "5.0.1",
+              "class": "DepictionSubheaderView"
+            },
+            {
+              "title": "22/08/2026",
+              "alignment": 2,
+              "class": "DepictionSubheaderView"
+            }
+          ]
+        },
+        {
+          "useSpacing": true,
+          "markdown": "Fix not working on iOS 14/rootful jailbreaks",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "useSpacing": true,
+          "markdown": "Fix system media player was not hidden",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "useSpacing": true,
+          "markdown": "Fix notification list offset issues on iOS 16+",
           "class": "DepictionMarkdownView"
         },
         {
