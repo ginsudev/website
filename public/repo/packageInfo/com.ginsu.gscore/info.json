@@ -79,6 +79,12 @@
       "changes": [
         "Fix crash on iOS 26"
       ]
+    },
+    "2.0.3": {
+      "date": "2026-08-23T09:12:08.163Z",
+      "changes": [
+        "Fix icon image api not working on iOS 14."
+      ]
     }
   }
 }
