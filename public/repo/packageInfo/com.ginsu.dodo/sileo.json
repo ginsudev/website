@@ -70,7 +70,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "5.0.1",
+          "text": "5.0.2",
           "title": "Version"
         },
         {
@@ -835,6 +835,31 @@
         {
           "useSpacing": true,
           "markdown": "Fix notification list offset issues on iOS 16+",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 12
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "alignment": 0,
+              "useBoldText": true,
+              "title": "5.0.2",
+              "class": "DepictionSubheaderView"
+            },
+            {
+              "title": "23/08/2026",
+              "alignment": 2,
+              "class": "DepictionSubheaderView"
+            }
+          ]
+        },
+        {
+          "useSpacing": true,
+          "markdown": "Fix iOS 26 crash",
           "class": "DepictionMarkdownView"
         },
         {
