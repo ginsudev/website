@@ -185,6 +185,12 @@
         "Fix system media player was not hidden",
         "Fix notification list offset issues on iOS 16+"
       ]
+    },
+    "5.0.2": {
+      "date": "2026-08-23T08:50:15.608Z",
+      "changes": [
+        "Fix hang on iOS 26"
+      ]
     }
   }
 }
