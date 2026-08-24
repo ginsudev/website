@@ -191,6 +191,12 @@
       "changes": [
         "Fix hang on iOS 26"
       ]
+    },
+    "5.0.3": {
+      "date": "2026-08-24T11:52:30.881Z",
+      "changes": [
+        "Temporarily remove GSWeather as dependency"
+      ]
     }
   }
 }

@@ -70,7 +70,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "5.0.2",
+          "text": "5.0.3",
           "title": "Version"
         },
         {
@@ -860,6 +860,31 @@
         {
           "useSpacing": true,
           "markdown": "Fix hang on iOS 26",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 12
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "alignment": 0,
+              "useBoldText": true,
+              "title": "5.0.3",
+              "class": "DepictionSubheaderView"
+            },
+            {
+              "title": "24/08/2026",
+              "alignment": 2,
+              "class": "DepictionSubheaderView"
+            }
+          ]
+        },
+        {
+          "useSpacing": true,
+          "markdown": "Temporarily remove GSWeather as dependency",
           "class": "DepictionMarkdownView"
         },
         {
