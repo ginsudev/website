@@ -85,6 +85,12 @@
       "changes": [
         "Fix icon image api not working on iOS 14."
       ]
+    },
+    "2.0.4": {
+      "date": "2026-08-24T11:46:49.885Z",
+      "changes": [
+        "Fix crash in settings app"
+      ]
     }
   }
 }

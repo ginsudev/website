@@ -34,7 +34,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2.0.3",
+          "text": "2.0.4",
           "title": "Version"
         },
         {
@@ -389,6 +389,31 @@
         {
           "useSpacing": true,
           "markdown": "Fix icon image api not working on iOS 14.",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 12
+        },
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "alignment": 0,
+              "useBoldText": true,
+              "title": "2.0.4",
+              "class": "DepictionSubheaderView"
+            },
+            {
+              "title": "24/08/2026",
+              "alignment": 2,
+              "class": "DepictionSubheaderView"
+            }
+          ]
+        },
+        {
+          "useSpacing": true,
+          "markdown": "Fix crash in settings app",
           "class": "DepictionMarkdownView"
         },
         {
